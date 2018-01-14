@@ -1,4 +1,4 @@
-package hpe.clqr.demo;
+package hpe.clqr.kdd;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
